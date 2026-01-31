@@ -1,3 +1,4 @@
+#menu_bar
 MENU = {
     "espresso": {
         "ingredients": {
