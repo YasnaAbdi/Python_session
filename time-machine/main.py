@@ -4,8 +4,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from datetime import date
 
-SPOTIPY_CLIENT_ID = "bfdab240b4104b83a7b8d90859ebc86b"
-SPOTIPY_CLIENT_SECRET = "c22dd3d402fe4e5489293bfd76bd6150"
+SPOTIPY_CLIENT_ID = YOUR CLIENT ID
+SPOTIPY_CLIENT_SECRET = YOUR SECRET CODE
 URL = "https://example.com/?code=AQDcwiD223VCm2vgkfPydeJwO0ybo2AjeP4FC1HW4CXHQR9Lv94UoQxr1DulAT0S9n1s361wkdHVzFXmrB8F0S5GhDVvCS0tpxeoA2wPbZwigyEZopzkYSVjqMLdo6HW0wmNG15BUHZHz5vodapgte43CLUZJWB1Pr1PRTtKxheDLU8PxWFz1dFCZ7XFmGc"
 SPOTIFY_URL = "http://open.spotify.com/track/"
 
