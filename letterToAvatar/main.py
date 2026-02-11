@@ -1,5 +1,3 @@
-
-
 with open("./Names/invited_names.txt", "r") as names:
     name = names.readlines()
 
