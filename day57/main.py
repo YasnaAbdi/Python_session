@@ -11,6 +11,7 @@ def home():
     return render_template("index.html", year=current_year)
 
 
+
 @app.route('/guess/<name>')
 def info(name):
     gender_endpoint = f"https://api.genderize.io?name={name}"
