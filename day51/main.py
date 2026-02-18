@@ -57,5 +57,6 @@ bot = InternetSpeedTwitterBot(CHROME_DRIVER_PATH)
 bot.get_internet_speed()
 bot.tweet_at_provider()
 
+
 # pyautogui.locateOnScreen(image="unnamed.png", confidence=0.5)
 # pyautogui.click()
