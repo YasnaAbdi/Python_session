@@ -6,8 +6,8 @@ from selenium.common.exceptions import NoSuchElementException
 
 url = ("https://www.linkedin.com/jobs/search/?currentJobId=3989047029&f_LF=f_AL&geoId=102257491&keywords=python"
        "%20developer&location=London%2C%20England%2C%20United%20Kingdom")
-emil = "yasnaabdi2024@gmail.com"
-passcode = "jungkook,11997"
+emil = EMAIL
+passcode = PASSCODE
 PHONE = "01234567890"
 
 
